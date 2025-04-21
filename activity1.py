@@ -1,4 +1,3 @@
-# Activity 1
 class Superhero:
     def __init__(self, name, power, universe):
         self.name = name
